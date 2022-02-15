@@ -26,8 +26,8 @@ export const products = [
   },
   {
     id:4,
-    name: 'Etch a Sketch',
-    description: 'Cordless Tablet'
+    name: 'Etch-A-Sketch',
+    description: 'Cordless Tablet for scribbling on or drawing mostly rectilinear artwork.'
   }
 ];
 
